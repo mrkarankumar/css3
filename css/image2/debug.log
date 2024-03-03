@@ -1,0 +1,7 @@
+[1222/193039.104:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[1226/200629.995:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1226/200635.015:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1226/200640.022:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1228/181050.254:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[1228/200841.761:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[1230/200910.955:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
